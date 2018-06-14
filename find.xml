@@ -11,12 +11,12 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.tpl</mask>
     <mask>!*.lock, !*.min.*</mask>
     <mask>!*.lock, !*.min.*, !*.phtml</mask>
     <mask>!*.lock, !*.min.*, !*.phtml, !*.json</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
