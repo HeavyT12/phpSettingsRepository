@@ -1,9 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="BraceOrQuoteOut" />
-  <action id="CodeCompletion">
+  <action id="Diff.FocusOppositePane" />
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="tab" />
   </action>
-  <action id="Diff.FocusOppositePane" />
   <action id="EditorChooseLookupItemReplace" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -27,9 +28,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
   <action id="Switcher">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
