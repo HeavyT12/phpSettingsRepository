@@ -9,7 +9,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="EditorIndentSelection" />
+  <action id="EditorIndentSelection">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
