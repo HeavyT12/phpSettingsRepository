@@ -13,7 +13,7 @@
     <pattern case-sensitive="true" pattern="\bHACK\b.*" />
     <pattern case-sensitive="true" pattern="\bXXX\b.*" />
     <pattern case-sensitive="true" pattern="\bUNDONE\b.*" />
-    <pattern pattern="\btytodo\b.*" />
+    <pattern pattern="\btyo?todo\b.*" />
     <filter name="TYTODO">
       <pattern index="7" />
     </filter>
