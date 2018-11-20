@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Dashboard" />
-    <option name="defaultScopeName" value="Dashboard" />
-    <option name="SEARCH_SCOPE" value="Dashboard" />
+    <option name="customScope" value="File '...\src\vue\components\InfoSummary\InfoSummarySection.vue [abovelms]'" />
+    <option name="defaultScopeName" value="File '...\src\vue\components\InfoSummary\InfoSummarySection.vue [abovelms]'" />
+    <option name="SEARCH_SCOPE" value="File '...\src\vue\components\InfoSummary\InfoSummarySection.vue [abovelms]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
