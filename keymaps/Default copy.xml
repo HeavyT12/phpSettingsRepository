@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ExpandLiveTemplateByTab" />
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
@@ -26,6 +29,7 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="RecentFiles" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -34,4 +38,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
 </keymap>
