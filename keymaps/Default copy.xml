@@ -14,10 +14,12 @@
   </action>
   <action id="EditorTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="ExpandLiveTemplateByTab" />
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
