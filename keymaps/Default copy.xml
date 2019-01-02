@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="BraceOrQuoteOut" />
   <action id="Diff.FocusOppositePane" />
   <action id="EditorChooseLookupItem">
