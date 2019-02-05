@@ -4,6 +4,7 @@
       <mapping pattern="field" type="JavaScript" />
       <mapping pattern="InfoSummarySection.vue" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping pattern="food-safety-manager-people-banner.png" type="yarn.lock" />
     </extensionMap>
   </component>
 </application>
