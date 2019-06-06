@@ -17,7 +17,7 @@
     <mask>*.tpl</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
