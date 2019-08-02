@@ -20,7 +20,7 @@
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.test.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
