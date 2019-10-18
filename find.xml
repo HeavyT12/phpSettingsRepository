@@ -19,7 +19,7 @@
     <mask>*.test.js</mask>
     <mask>*.js</mask>
     <mask>*.tpl</mask>
-    <mask>*.vue</mask>
     <mask>*.examples.md</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
