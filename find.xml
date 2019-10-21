@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.test.js" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,5 +22,6 @@
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>

@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="field" type="JavaScript" />
       <mapping pattern="InfoSummarySection.vue" type="PLAIN_TEXT" />
+      <mapping pattern="loadCustomPortalByName.json" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
