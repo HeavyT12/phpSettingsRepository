@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +18,6 @@
     <mask>!*.lock, !*.min.*, !*.phtml</mask>
     <mask>!*.lock, !*.min.*, !*.phtml, !*.json</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
     <mask>*.tpl</mask>
     <mask>*.examples.md</mask>
     <mask>*.vue</mask>
@@ -25,5 +25,6 @@
     <mask>*.json</mask>
     <mask>*.stories.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
