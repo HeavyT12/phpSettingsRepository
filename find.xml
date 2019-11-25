@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +16,6 @@
     <mask>!*.lock, !*.min.*, !*.phtml</mask>
     <mask>!*.lock, !*.min.*, !*.phtml, !*.json</mask>
     <mask>*.scss</mask>
-    <mask>*.tpl</mask>
     <mask>*.examples.md</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
@@ -25,5 +25,6 @@
     <mask>*Test.php</mask>
     <mask>*.php</mask>
     <mask>*.php,*.inc</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
