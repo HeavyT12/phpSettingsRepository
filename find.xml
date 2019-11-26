@@ -19,7 +19,6 @@
     <mask>!*.lock, !*.min.*, !*.phtml</mask>
     <mask>!*.lock, !*.min.*, !*.phtml, !*.json</mask>
     <mask>*.scss</mask>
-    <mask>*.examples.md</mask>
     <mask>*.json</mask>
     <mask>*.stories.js</mask>
     <mask>*.test.js</mask>
@@ -29,5 +28,6 @@
     <mask>*.php,*.inc</mask>
     <mask>*.tpl</mask>
     <mask>*.js</mask>
+    <mask>*.examples.md</mask>
   </component>
 </application>
