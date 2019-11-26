@@ -1,7 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
-      <template name="test༏ext༏..test.js" reformat="false" live-template-enabled="true" />
+      <template name="Vue Component Unit Test༏ext༏.test.js" reformat="false" live-template-enabled="true" />
       <template name="VueStore.js" reformat="false" live-template-enabled="false" />
       <template name="VueTest༏ext༏.test.js" reformat="false" live-template-enabled="false" />
       <template name="VuetifyWrapper.vue" reformat="false" live-template-enabled="true" />
