@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.vue,*.js</mask>
+    <mask>*store.js</mask>
+    <mask>*Controller.php</mask>
+    <mask>composer.lock</mask>
+    <mask>*.eslint*</mask>
+    <mask>Model.js</mask>
+    <mask>*.md</mask>
+    <mask>.*TestData.js</mask>
+    <mask>.eslint.*</mask>
+    <mask>*.svg</mask>
+    <mask>*spec.js</mask>
+    <mask>*.stories.js</mask>
+    <mask>*.examples.md</mask>
+    <mask>*.scss</mask>
+    <mask>IndexController.php</mask>
+    <mask>*.tpl</mask>
+    <mask>*.entry.js</mask>
+    <mask>*test.js</mask>
+    <mask>*Routes.js</mask>
+    <mask>*.php,*.inc</mask>
+    <mask>*.php</mask>
+    <mask>*stories.js</mask>
+    <mask>*.test.js</mask>
+    <mask>*Test.php</mask>
+    <mask>*examples.md</mask>
+    <mask>*.js</mask>
+    <mask>*.vue</mask>
+  </component>
+</application>

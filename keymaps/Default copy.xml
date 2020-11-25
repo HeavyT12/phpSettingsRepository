@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorChooseLookupItemReplace">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
