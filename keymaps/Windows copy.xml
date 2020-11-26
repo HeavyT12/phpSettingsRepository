@@ -1,0 +1,12 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>

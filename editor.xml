@@ -1,0 +1,12 @@
+<application>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bhack\b.*" />
+    <pattern pattern="\bbug\b.*" />
+    <pattern pattern="\bundone\b.*" />
+    <pattern pattern="\bXXX\b.*" />
+    <pattern pattern="\bnote\b.*" />
+    <pattern pattern="\btytodo\b.*" />
+  </component>
+</application>
