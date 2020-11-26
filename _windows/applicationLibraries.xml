@@ -1,0 +1,28 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/jquery" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/puppeteer" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/requirejs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/yargs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/zxcvbn" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
