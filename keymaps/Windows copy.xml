@@ -2,6 +2,11 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
