@@ -28,10 +28,10 @@
     <mask>*.php</mask>
     <mask>*stories.js</mask>
     <mask>*Test.php</mask>
-    <mask>*examples.md</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
     <mask>*.vue</mask>
     <mask>*.tpl</mask>
+    <mask>*examples.md</mask>
   </component>
 </application>
