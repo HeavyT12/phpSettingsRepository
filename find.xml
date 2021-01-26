@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.vue,*.js</mask>
@@ -25,7 +26,6 @@
     <mask>*Routes.js</mask>
     <mask>*.php,*.inc</mask>
     <mask>*stories.js</mask>
-    <mask>*.tpl</mask>
     <mask>*examples.md</mask>
     <mask>*Store.js</mask>
     <mask>*.php</mask>
@@ -33,5 +33,6 @@
     <mask>*Test.php</mask>
     <mask>*.vue</mask>
     <mask>*.test.js</mask>
+    <mask>*.tpl</mask>
   </component>
 </application>
