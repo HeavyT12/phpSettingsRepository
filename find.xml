@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
-    <mask>*.css</mask>
+    <option name="FILE_MASK" value="*View.js" />
     <mask>*.mxml</mask>
     <mask>*.vue,*.js</mask>
     <mask>*store.js</mask>
@@ -34,5 +33,6 @@
     <mask>*.vue</mask>
     <mask>*examples.md</mask>
     <mask>*.js</mask>
+    <mask>*View.js</mask>
   </component>
 </application>
