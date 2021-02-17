@@ -26,7 +26,6 @@
     <mask>*.php,*.inc</mask>
     <mask>*stories.js</mask>
     <mask>*Store.js</mask>
-    <mask>*.php</mask>
     <mask>*Test.php</mask>
     <mask>*.tpl</mask>
     <mask>*.vue</mask>
@@ -35,5 +34,6 @@
     <mask>*.test.js</mask>
     <mask>*Model.js</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
