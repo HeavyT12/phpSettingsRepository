@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.vue,*.js</mask>
     <mask>*store.js</mask>
     <mask>*Controller.php</mask>
@@ -27,12 +27,12 @@
     <mask>*Test.php</mask>
     <mask>*.tpl</mask>
     <mask>*examples.md</mask>
-    <mask>*.test.js</mask>
     <mask>*Model.js</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*View.js</mask>
     <mask>*.php,*.inc</mask>
     <mask>*.vue</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
