@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.vue,*.js</mask>
+    <option name="FILE_MASK" value="*.json" />
     <mask>*store.js</mask>
     <mask>*Controller.php</mask>
     <mask>composer.lock</mask>
@@ -35,5 +35,6 @@
     <mask>*.php,*.inc</mask>
     <mask>*.test.js</mask>
     <mask>*.vue</mask>
+    <mask>*.json</mask>
   </component>
 </application>
