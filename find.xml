@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*store.js</mask>
     <mask>*Controller.php</mask>
     <mask>composer.lock</mask>
@@ -27,11 +28,11 @@
     <mask>*examples.md</mask>
     <mask>*Model.js</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*View.js</mask>
     <mask>*.php,*.inc</mask>
     <mask>*.json</mask>
     <mask>*.vue</mask>
     <mask>*.test.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
