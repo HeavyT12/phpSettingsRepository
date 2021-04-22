@@ -27,11 +27,11 @@
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*examples.md</mask>
-    <mask>*Test.php</mask>
     <mask>*.vue</mask>
     <mask>*.entry.js</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
     <mask>*.mdx</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
