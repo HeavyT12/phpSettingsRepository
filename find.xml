@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Controller.php</mask>
+    <option name="FILE_MASK" value="!*.test.js" />
     <mask>composer.lock</mask>
     <mask>*.eslint*</mask>
     <mask>Model.js</mask>
@@ -35,5 +35,6 @@
     <mask>*.mdx</mask>
     <mask>*Test.php</mask>
     <mask>*.test.js</mask>
+    <mask>!*.test.js</mask>
   </component>
 </application>
