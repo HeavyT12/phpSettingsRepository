@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>composer.lock</mask>
     <mask>*.eslint*</mask>
     <mask>Model.js</mask>
@@ -29,10 +29,10 @@
     <mask>*examples.md</mask>
     <mask>*.entry.js</mask>
     <mask>*.mdx</mask>
-    <mask>*Test.php</mask>
     <mask>!*.test.js</mask>
     <mask>*.test.js</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
