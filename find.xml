@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*stories.js" />
     <mask>composer.lock</mask>
     <mask>*.eslint*</mask>
     <mask>Model.js</mask>
@@ -16,7 +17,6 @@
     <mask>IndexController.php</mask>
     <mask>*test.js</mask>
     <mask>*Routes.js</mask>
-    <mask>*stories.js</mask>
     <mask>*Store.js</mask>
     <mask>*Model.js</mask>
     <mask>*View.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.test.js</mask>
     <mask>*Test.php</mask>
+    <mask>*stories.js</mask>
   </component>
 </application>
