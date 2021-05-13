@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>composer.lock</mask>
+    <option name="FILE_MASK" value="*stories.mdx" />
     <mask>*.eslint*</mask>
     <mask>Model.js</mask>
     <mask>.*TestData.js</mask>
@@ -33,5 +33,6 @@
     <mask>*.test.js</mask>
     <mask>*Test.php</mask>
     <mask>*stories.js</mask>
+    <mask>*stories.mdx</mask>
   </component>
 </application>
