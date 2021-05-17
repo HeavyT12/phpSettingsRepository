@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.test.js" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.eslint*</mask>
     <mask>Model.js</mask>
     <mask>.*TestData.js</mask>
@@ -21,7 +21,6 @@
     <mask>*View.js</mask>
     <mask>*.php,*.inc</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*examples.md</mask>
     <mask>*.entry.js</mask>
     <mask>*.mdx</mask>
@@ -34,5 +33,6 @@
     <mask>*stories.js</mask>
     <mask>*stories.mdx</mask>
     <mask>*.test.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
