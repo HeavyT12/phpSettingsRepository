@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.eslint*</mask>
     <mask>Model.js</mask>
     <mask>.*TestData.js</mask>
@@ -30,8 +33,8 @@
     <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*stories.js</mask>
-    <mask>*.test.js</mask>
     <mask>*.php</mask>
     <mask>*stories.mdx</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
