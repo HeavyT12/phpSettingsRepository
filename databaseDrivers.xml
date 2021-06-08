@@ -7,7 +7,7 @@
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
     </driver>
-    <driver id="mysql">
+    <driver id="mysql" dialect="MariaDB">
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
     </driver>
   </component>
