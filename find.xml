@@ -28,10 +28,10 @@
     <mask>*stories.js</mask>
     <mask>*.php</mask>
     <mask>*.test.js</mask>
-    <mask>*.js</mask>
     <mask>*Model.js</mask>
     <mask>*.vue</mask>
     <mask>*Test.php</mask>
     <mask>*stories.mdx</mask>
+    <mask>*.js</mask>
   </component>
 </application>
