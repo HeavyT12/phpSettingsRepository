@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="stage" id="c05f24c0-b5ad-444a-894b-640bbb9d8e3d" keyPath="C:\Users\TFarley\.ssh\tfarley.pem" port="22" nameFormat="DESCRIPTIVE" username="tfarley" />
+      <sshConfig host="35.162.31.90" id="74578380-e05a-4aa3-91ac-61bc0266ed2a" keyPath="C:\Users\TFarley\.ssh\aws-ec2-user.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" />
     </configs>
   </component>
 </application>
