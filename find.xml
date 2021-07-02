@@ -5,6 +5,7 @@
     <option name="preserveCase" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*stories.mdx" />
     <mask>*.eslint*</mask>
     <mask>Model.js</mask>
     <mask>.*TestData.js</mask>
@@ -28,12 +29,12 @@
     <mask>*.md</mask>
     <mask>*.tpl</mask>
     <mask>*stories.js</mask>
-    <mask>*stories.mdx</mask>
     <mask>*.test.js</mask>
     <mask>*.js</mask>
     <mask>*Model.js</mask>
     <mask>*Test.php</mask>
     <mask>*.vue</mask>
     <mask>*.php</mask>
+    <mask>*stories.mdx</mask>
   </component>
 </application>
