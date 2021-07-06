@@ -31,7 +31,7 @@
     <mask>*Model.js</mask>
     <mask>*Test.php</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*stories.mdx</mask>
+    <mask>*.php</mask>
   </component>
 </application>
