@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.php" />
-    <mask>*.eslint*</mask>
+    <option name="FILE_MASK" value="*RepositoryTest.php" />
     <mask>Model.js</mask>
     <mask>.*TestData.js</mask>
     <mask>.eslint.*</mask>
@@ -34,5 +33,6 @@
     <mask>*.vue</mask>
     <mask>*.test.js</mask>
     <mask>*Test.php</mask>
+    <mask>*RepositoryTest.php</mask>
   </component>
 </application>
