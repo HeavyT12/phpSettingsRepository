@@ -21,9 +21,18 @@
   </JSCodeStyleSettings>
   <MySQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="ALIAS_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUOTE_TYPE" value="11" />
+    <option name="QUERY_EL_LINE" value="0" />
     <option name="SUBQUERY_OPENING" value="4" />
     <option name="SUBQUERY_CONTENT" value="4" />
     <option name="SUBQUERY_CLOSING" value="4" />
+    <option name="SELECT_EL_WRAP" value="0" />
+    <option name="SELECT_ASTERISK_REGULAR" value="true" />
+    <option name="FROM_EL_WRAP" value="2" />
   </MySQLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ANONYMOUS_BRACE_STYLE" value="2" />
