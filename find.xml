@@ -3,35 +3,35 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*store.js</mask>
-    <mask>*Controller.php</mask>
-    <mask>composer.lock</mask>
-    <mask>*.eslint*</mask>
     <mask>Model.js</mask>
-    <mask>*.md</mask>
     <mask>.*TestData.js</mask>
     <mask>.eslint.*</mask>
     <mask>*.svg</mask>
     <mask>*spec.js</mask>
     <mask>*.stories.js</mask>
     <mask>*.examples.md</mask>
-    <mask>*.scss</mask>
     <mask>IndexController.php</mask>
     <mask>*test.js</mask>
     <mask>*Routes.js</mask>
-    <mask>*stories.js</mask>
     <mask>*Store.js</mask>
-    <mask>*.tpl</mask>
-    <mask>*Model.js</mask>
     <mask>*View.js</mask>
     <mask>*.php,*.inc</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*examples.md</mask>
+    <mask>*.entry.js</mask>
+    <mask>*.mdx</mask>
+    <mask>!*.test.js</mask>
+    <mask>*.md</mask>
+    <mask>*stories.js</mask>
+    <mask>*Model.js</mask>
+    <mask>*stories.mdx</mask>
+    <mask>*.php</mask>
+    <mask>*.tpl</mask>
+    <mask>*.scss</mask>
+    <mask>*RepositoryTest.php</mask>
+    <mask>*.vue</mask>
+    <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*.test.js</mask>
-    <mask>*.js</mask>
-    <mask>*.vue</mask>
-    <mask>*.entry.js</mask>
   </component>
 </application>
