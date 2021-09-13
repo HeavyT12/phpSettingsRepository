@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="js">
+      <display-name>SQL select/delete</display-name>
+      <place disabled="true"><![CDATA[jsLiteral().withStringValueIgnoringInterpolations(string().matchesBrics(" *(SELECT|DELETE) .*FROM .*"))]]></place>
+    </injection>
+  </component>
+</application>
