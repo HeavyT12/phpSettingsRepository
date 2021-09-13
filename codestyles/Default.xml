@@ -14,10 +14,13 @@
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SUBQUERY_OPENING" value="4" />
     <option name="SUBQUERY_CONTENT" value="4" />
     <option name="SUBQUERY_CLOSING" value="4" />
@@ -26,6 +29,12 @@
     <option name="ANONYMOUS_BRACE_STYLE" value="2" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
+  <VueCodeStyleSettings>
+    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template, script, style" />
+    <option name="UNIFORM_INDENT" value="false" />
+    <option name="INTERPOLATION_NEW_LINE_AFTER_START_DELIMITER" value="false" />
+    <option name="INTERPOLATION_NEW_LINE_BEFORE_END_DELIMITER" value="false" />
+  </VueCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
@@ -90,7 +99,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
