@@ -3,6 +3,64 @@
     <interpreters>
       <interpreter id="fe983731-db5f-49bc-8983-a4b6bd80a62e" name="PHP 5.6" home="C:\Development\UniServerZ\core\php56\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="3f726cfe-e4a1-43c7-b795-165266763270" name="PHP 7.3" home="C:\Development\php73\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="98393bca-a2bf-44f3-ac9b-83815a6c02bf" name="PHP 8.0" home="C:\Development\php80\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="PHP 8.0">
+        <phpinfo binary_type="PHP" php_cgi="C:\Development\php80\php-cgi.exe" php_cli="C:\Development\php80\php.exe" path_separator=";" version="8.0.11">
+          <additional_php_ini />
+          <configuration_file>C:\Development\php80\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="gd" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mongodb" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="soap" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
   </component>
 </application>
